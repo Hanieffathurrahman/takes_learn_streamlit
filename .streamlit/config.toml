@@ -1,0 +1,15 @@
+[theme]
+
+primaryColor= "#E684FF"
+
+#background coolor for main content area
+backgroundColor ="#00172B"
+
+#backgroundcolor for sidebar and interactive widget
+secondaryBackgroundColor="#0083B8"
+
+#Color used for almost Color
+textColor = "#FFF"
+
+#default font
+font = 'sans serif'
